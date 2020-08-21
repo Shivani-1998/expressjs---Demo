@@ -232,7 +232,7 @@ import java.util.*;
  }  
    
    
-public class EII  
+public class Exception  
  {  
       public static void main(String arg[]) throws MyException  
       {  
