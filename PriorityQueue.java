@@ -1,3 +1,5 @@
+#Program on Priority Queue in Collection Of Framework.
+
 import java.util.*;
 
 class Employee implements Comparable<Employee> {
