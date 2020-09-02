@@ -1,4 +1,4 @@
-//publlic Access Modifier.
+///publlic Access Modifier.
 class A 
 { 
    public void display() 
